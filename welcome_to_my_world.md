@@ -6,6 +6,12 @@
 
 #### This is a header 3.
 
+*This is italic text*
+
+**This is bold text**
+
+***This is bold and italic text***
+
 
 
 
