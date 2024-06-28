@@ -30,3 +30,23 @@
 [Check the project here](https://github.com/sanjakraljica/tech-code/blob/main/welcome_to_my_world.md)
 
 ![Picture of a strawberry](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--vOPt3tp3OantwsrrYlvaYFMxe5Jz3a8H0w88aE5HxmRBQ_2hqhgDzgTFg&s)
+
+> This is`code`block.\
+> This is continuing. \
+> This is still continuing.
+
+* Item 1
+* Item 2
+
+\*
+
+\*
+
+First create a `model.py` file.
+
+```
+print ('Hello Markdown')
+for i in range (100):
+    print(i)
+```
+
