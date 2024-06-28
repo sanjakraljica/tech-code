@@ -34,3 +34,7 @@ This is bold text.
     2. item number in 2
 3. Item number 3
 4. Item number 4
+
+[Check the project here](https://github.com/sanjakraljica/tech-code?tab=readme-ov-file)
+
+![Picture of a car](https://img.freepik.com/free-photo/modern-sports-car-speeds-through-dark-curve-generative-ai_188544-9136.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719532800&semt=sph)
