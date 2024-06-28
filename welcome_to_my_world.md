@@ -16,9 +16,9 @@
 - Item 2
 - Item 3
  
- +Item 4
-    +Item 5
-    +Item 6
+ + Item 4
+    + Item 5
+    + Item 6
 
 1. Item number 1
 2. Item number 2
