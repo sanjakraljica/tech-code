@@ -27,6 +27,9 @@
 3. Item number 3
 4. Item number 4
 
+[Check the project here](https://github.com/sanjakraljica/tech-code/blob/main/welcome_to_my_world.md)
+
+
 
 
 
